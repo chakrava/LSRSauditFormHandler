@@ -7,6 +7,6 @@ Educause (educause.edu) has established the LSRS (Learning Space Rating System) 
 
 The LSRSauditFormHandler is a set of app script (a cloud-based scripting language based on Javascript) to manage and improve the interactions between the Google Form and the Sheet.
 
-This project has no affiliation with, but uses resources provided (under the Creative Commons Attribution License 3.0) by, Educause.
+This project has no affiliation with, but uses resources provided by (under the Creative Commons Attribution License 3.0), Educause.
 
 More information about the LSRS initiative can be found at: http://www.educause.edu/eli/initiatives/learning-space-rating-system
